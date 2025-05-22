@@ -1,7 +1,10 @@
 [![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=0000CC&lines=true&vCenter=true&width=1000&height=100&lines=WELCOME+PRINCE+MD)](https://git.io/typing-svg)
 ------------
-
-
+href='https://github.com/bwbxmd/B.M.B-TECH/fork' target="_blank">
+<img alt='Pairing Code' src='https://img.shields.io/badge/fork%20repo%20prince-tech?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+------------
    - <a align="center"><a href="https://render.com"> <img src="https://img.shields.io/badge/GET%20SESSION-green?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
 
 
