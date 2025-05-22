@@ -1,1 +1,1 @@
-# PRINCE-XMD
+# PRINCE-MD
