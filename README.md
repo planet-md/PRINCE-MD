@@ -16,7 +16,6 @@
  
  
    <h1 align="center" style="color: FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">GET SESSION ID </h1>
-
 <a href="https://loft-session-id-6.onrender.com/">
   <img title="GET SESSION ID" src="https://img.shields.io/badge/GET SESSION ID-HERE-green?style=for-the-badge&logo=render" width="230" height="38.45"/>
 </a>
@@ -27,7 +26,8 @@
  
   
   
-  **DEPLOY NOW**
+  
+   <h1 align="center" style="color: FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">DEPLOY NOW</h1>
 
 <a href="https://dashboard.heroku.com/new?template=https://github.com/planet-md/PRINCE-MD">
   <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-blue?style=for-the-badge&logo=heroku" width="230" height="38.100"/>
