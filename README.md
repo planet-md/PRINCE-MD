@@ -44,7 +44,7 @@
 
 --------
 - <a href="https://wa.me/254712345678">
-  <img src="https://img.shields.io/badge/whatsapp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
 </a>
 
 
