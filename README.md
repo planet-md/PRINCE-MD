@@ -5,8 +5,8 @@
 
 
 
- **FORK & STAR THE REPO**
-<a href="https://github.com/loftxmd23/loft-xmd-s24/fork">
+ **FORK & STAR THIS REPO**
+<a href="https://github.com/planet-md/PRINCE-MD/fork">
   <img title="Fork Repo" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=github&logoColor=red"/>
 </a>
 
@@ -24,7 +24,7 @@
 
   **DEPLOY NOW**
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/loftxmd23/LOFT-XMD-S24">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/planet-md/PRINCE-MD">
   <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-blue?style=for-the-badge&logo=heroku" width="230" height="38.100"/>
 </a>
 
@@ -43,12 +43,12 @@
 
 
 
-**MADE IN TANZANIA BY LOFT XMD**
+**MADE IN TANZANIA BY PRINCE TECH**
  
  
  
 
- 📱**CONTACT LOFT-XMD TEAM**
+ 📱**CONTACT PRINCE- TEAM**
 <p align="center">
   <a href=""> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://wa.me/255778018545"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
