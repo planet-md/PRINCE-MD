@@ -43,53 +43,5 @@
   
   
   
-   <h1 align="center" style="color: FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">DEPLOY NOW</h1>
-
-<a href="https://dashboard.heroku.com/new?template=https://github.com/planet-md/PRINCE-MD">
-  <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-blue?style=for-the-badge&logo=heroku" width="230" height="38.100"/>
-</a>
-
-
-
-
- 
-
- 
- 
- 🌍 **PRINCE-MD...SUPPORT**
-
-<a href="https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610">
-  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
----
-
-
-
-
-
-
-
-**MADE IN TANZANIA BY PRINCE TECH**
- 
- 
- 
-
- 
- 
- 
- 📱**CONTACT PRINCE- TEAM**
-<p align="center">
-  <a href=""> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://wa.me/255778018545"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a 
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg)
-
-
-<a
- href="https://imgur.com/Z4XztN9">
+   
  
