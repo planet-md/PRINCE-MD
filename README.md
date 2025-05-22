@@ -14,7 +14,7 @@
 
 
 ------
-</a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/planet-md/PRINCE-MD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY PRINCE-MD" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
  
 
  
