@@ -16,9 +16,22 @@
  
  
    <h1 align="center" style="color: FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">GET SESSION ID </h1>
-<a href="https://loft-session-id-6.onrender.com/">
-  <img title="GET SESSION ID" src="https://img.shields.io/badge/GET SESSION ID-HERE-green?style=for-the-badge&logo=render" width="230" height="38.45"/>
-</a>
+   !-- Action Buttons -->
+<p align="center">
+  <a href="https://www.ibrahimadams.site/scanner">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_SESSION-000000?style=for-the-badge&logo=render&logoColor=blue&color=skyblue" width="260" height="50"/>
+  </a>
+  
+  <a href="https://www.ibrahimadams.site/Deploy">
+    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://render.com">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>
+  
 
 
 
