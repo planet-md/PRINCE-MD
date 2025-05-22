@@ -16,17 +16,6 @@
  
  
    <h1 align="center" style="color: FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">GET SESSION ID </h1>
-<a href="https://github.com/planet-md/PRINCE-MD/fork">
-  <img title="Fork Repo" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=github&logoColor=red"/>
-</a>
-
-
-
-
- 
- 
- 
- **GET SESSION ID**
 
 <a href="https://loft-session-id-6.onrender.com/">
   <img title="GET SESSION ID" src="https://img.shields.io/badge/GET SESSION ID-HERE-green?style=for-the-badge&logo=render" width="230" height="38.45"/>
