@@ -21,7 +21,9 @@
   <a href="https://www.ibrahimadams.site/scanner">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/_GET_SESSION-000000?style=for-the-badge&logo=render&logoColor=blue&color=white" width="260" height="50"/>
   </a>
+
   
+   <h1 align="center" style="color: FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">DEPLOY HEROKU NOW </h1>
   <a href="https://www.ibrahimadams.site/Deploy">
     <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
