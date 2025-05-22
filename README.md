@@ -3,14 +3,9 @@
   ![_5aa1a778-cb3c-47e2-92a8-15bdf90781e0](https://github.com/user-attachments/assets/efccd0f9-9345-4d03-bcfe-9e56e67ffc55)
 
 
-   # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;  LOFT-XMD-S24 &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
-<br><br>
-
-
-# 🚀 **FORK & STAR THE REPO**
+ **FORK & STAR THE REPO**
 <a href="https://github.com/loftxmd23/loft-xmd-s24/fork">
   <img title="Fork Repo" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=red"/>
 </a>
