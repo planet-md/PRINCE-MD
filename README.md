@@ -11,10 +11,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=00FF00&lines=true&vCenter=true&width=815&height=100&lines=DEPLOY-NOW)](https://git.io/typing-svg) 
 
------
 
-   - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/bwbxmd/B.M.B-TECH">
- <img src="https://img.shields.io/badge/DEPLOY%20HEROKU%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+--------
+- <a href="https://heroku.com">
+  <img src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white" width="220" height="38.45"/>
+</a>
  
  ----------
  
