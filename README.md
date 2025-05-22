@@ -38,7 +38,7 @@
 
 --------
 - <a href="https://www.koyeb.com/">
-  <img src="https://img.shields.io/badge/DEPLOY%20ON%20KOYEB-5D5FEF?style=for-the-badge&logoColor=white" width="220" height="38.45"/>
+  <img src="https://img.shields.io/badge/DEPLOY%20ON%20KOYEB-5D5FEF?style=for-the-badge&logo=koyeba&logoColor=white" width="220" height="38.45"/>
 </a>
 
 
