@@ -21,10 +21,10 @@
    - <a align="center"><a href="https://render.com"> <img src="https://img.shields.io/badge/DEPLOY%20RENDER-blue?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
 
 
-----------
  
-  - <a href="https://railway.com">
-  <img src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=red&style=for-the-badge&logo=msi&logoColor=gold" width="220" height="38.45"/>
+  - --------
+- <a href="https://railway.com">
+  <img src="https://img.shields.io/badge/DEPLOY%20ON%20RAILWAY-gold?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45"/>
 </a>
 
 
