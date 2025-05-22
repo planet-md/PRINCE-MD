@@ -7,7 +7,7 @@
 
  **FORK & STAR THE REPO**
 <a href="https://github.com/loftxmd23/loft-xmd-s24/fork">
-  <img title="Fork Repo" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=red"/>
+  <img title="Fork Repo" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=github&logoColor=red"/>
 </a>
 
 
