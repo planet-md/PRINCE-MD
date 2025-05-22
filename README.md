@@ -1,4 +1,4 @@
-
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=0000CC&lines=true&vCenter=true&width=1000&height=100&lines=WELCOME+PRINCE+MD)](https://git.io/typing-svg)
  
 
 
