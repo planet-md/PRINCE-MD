@@ -29,6 +29,7 @@
   </a>
 </p>
 
+   <h1 align="center" style="color: FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">DEPLOY  NOW </h1>
 <p align="center">
   <a href="https://render.com">
     <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
