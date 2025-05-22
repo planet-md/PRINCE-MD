@@ -23,7 +23,9 @@
 
 ----------
  
-  - <a href="https://railway.com"><img src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+  - <a href="https://railway.com">
+  <img src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=red&style=for-the-badge&logo=msi&logoColor=gold" width="220" height="38.45"/>
+</a>
 
 
 
